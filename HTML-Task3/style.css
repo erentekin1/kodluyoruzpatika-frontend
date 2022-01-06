@@ -1,0 +1,45 @@
+body {
+	background-color: tan;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.baslik {
+	color: rgb(160, 88, 6);
+}
+
+span {
+	color: rgb(160, 88, 6);
+}
+
+.info {
+	margin: 10px;
+	color: white;
+}
+
+.tarif {
+	position: relative;
+  	left: 300px;
+}
+
+h2 {
+	font-size: medium;
+	display: inline;
+	background-color: rgb(160, 88, 6);
+	border-radius: 15px;
+	color: white;
+	padding: 3px;
+	margin: 20px;
+}
+
+.malzemeler {
+	margin: 15px;
+}
+.yapilisi {
+	margin-top: 15px;
+}
+
+footer {
+	position: relative;
+	left: 75%;
+	font-style: italic;
+}
