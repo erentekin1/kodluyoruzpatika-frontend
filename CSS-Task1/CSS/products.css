@@ -1,0 +1,45 @@
+body {
+    font-family: monospace;
+    background-color: #A4A5A6;
+    color: #F2ECCE;
+}
+
+header {
+    background-color: #F2ECCE;
+    
+}
+
+h1 {
+    color: #F2D750;
+    text-align: center;
+
+}
+
+.navigation {
+    text-align: right;
+    padding: 5px;
+}
+
+a:link {
+    color: #F2CB57;
+}
+h2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+footer {
+    background-color: #F2ECCE;
+    position: fixed;
+    text-align: center;
+    bottom: 5px;
+    width: 100%;
+    color: #000000;
+}
