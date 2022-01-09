@@ -1,0 +1,48 @@
+
+nav {
+    text-align: center;
+}
+
+.searcharea {
+    text-align: center;
+    background-color: rgb(197, 197, 197);
+    padding: 5px;
+}
+.google-search {
+    width: 300px;
+    margin: 3px;
+}
+.blue-area {
+    float: left;
+    display: flex;
+    width: 100%;
+}
+.blue-1 {
+    background-color: rgb(0, 206, 195);
+    text-align: center; 
+    margin: 2 2 2 0;
+    padding: 3px;
+    width: 38%;
+}
+.blue-2 {
+    background-color: rgb(0, 206, 195);
+    text-align: center;
+    margin: 2 2 2 0;
+    padding: 3px;
+    width: 25%;
+}
+.blue-3 {
+    background-color: rgb(5, 150, 142);
+    text-align: center;
+    margin: 2 0 2 0;
+    padding: 3px;
+    width: 48%;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
